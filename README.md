@@ -1,5 +1,10 @@
 ## Hi there, I'm Leniz Rodrigo 👋
 
+About me:
+
+Stack:
+
+
 <!--
 **LenizRodrigo/LenizRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
