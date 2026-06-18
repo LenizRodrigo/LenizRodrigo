@@ -1,8 +1,8 @@
-# Hi there, I'm Leniz Rodrigo 👋
+## Hi there, I'm Leniz Rodrigo 👋
 
-## About me:
+### About me:
 
-## Stack:
+### Stack:
 
 
 <!--
